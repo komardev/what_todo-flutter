@@ -1,0 +1,14 @@
+{
+  "editor.fontLigatures": false,
+  "editor.renderIndentGuides": true,
+  "[json]": {
+
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": [
+      "document"
+    ]
+  },
+}
